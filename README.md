@@ -1,7 +1,7 @@
 [![](https://s2.loli.net/2023/03/17/ODoZUaLPe5tWwdn.png)](https://github.com/RatafeeDaisy)
 
 <a href="https://github.com/RatafeeDaisy">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=RatafeeDaisy&show_icons=true&icon_color=ffca28&theme=buefy" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=RatafeeDaisy&show_icons=true&theme=buefy" />
 </a>
 
 >哈喽哇！这是我的Github首页，它好看吗（~~不是~~）
